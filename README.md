@@ -56,7 +56,7 @@ Feel free to fork this repository, make changes, and submit pull requests. Any c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or support, please reach out to Mohd Hakim Bin Mohd Fauzi at [email@example.com](kl23070143292@student.uptm.edu.my).
+For any questions or support, please reach out to Mohd Hakim Bin Mohd Fauzi at [kl23070143292@student.uptm.edu.my](kl23070143292@student.uptm.edu.my).
 
 ---
 
